@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/GlobalTechInfo"><img title="Author" src="https://i.ibb.co/jHynY57/11993dc55c32a21a249ef1721fb66af4.jpg?style=for-the-badge&logo=github"></a>
+<a href=""><img title="Author" src="https://i.ibb.co/jHynY57/11993dc55c32a21a249ef1721fb66af4.jpg?style=for-the-badge&logo=github"></a>
 <p>
 
  <a><img src='https://k.top4top.io/p_3185d0ynl0.jpg'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -40,7 +40,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
 
-# USE GLOBAL SESSION IT'S WORKING
+# USE LOSTBOY SESSION IT'S WORKING
 
 <a href='https://globalpair-code.onrender.com/' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/PAIRING CODE-1-green?style=for-the-badge&logo=opencv&logoColor=white'/></a>
 
@@ -66,7 +66,7 @@ apt update && apt upgrade -y
 apt install -y webp git ffmpeg curl imagemagick
 apt -y remove nodejs
 curl -fsSl https://deb.nodesource.com/setup_lts.x | bash - && apt -y install nodejs
-git clone https://github.com/<your gitHub Username>/XeonBug-V8
+git clone https://github.com/<your gitHub Username>/BLOOD CLAN BUG BOT
 cd XeonBug-V8
 npm install
 npm start
