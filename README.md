@@ -6,7 +6,7 @@
 <p align="center">
 
   
-<p align="center"><img src="https://profile-counter.glitch.me/{XeonBug-V8}/count.svg" alt="Qasim Ali :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{BLOOD CLAN BUG BOT}/count.svg" alt="Qasim Ali :: Visitor's Count" /></p>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
@@ -14,7 +14,7 @@
 
 
 <p align="center">
-<a href="https://github.com/GlobalTechInfo/XeonBug-V8/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/GlobalTechInfo/XeonBug-V8?color=blue&style=flat-square"></a>
+<a href="https://github.com/GlobalTechInfo/XeonBug-V8/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/GlobalTechInfo/BLOOD CLAN BUG BOT?color=blue&style=flat-square"></a>
 <a href="https://github.com/GlobalTechInfo/XeonBug-V8/network/members"><img title="Forks" src="https://img.shields.io/github/forks/GlobalTechInfo/XeonBug-V8?color=red&style=flat-square"></a>
 <a href="https://github.com/GlobalTechInfo/XeonBug-V8/"><img title="Size" src="https://img.shields.io/github/repo-size/GlobalTechInfo/XeonBug-V8?style=flat-square&color=green"></a>
 <a href="https://github.com/GlobalTechInfo/XeonBug-V8/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-yellow.svg"></a>&nbsp;&nbsp;
@@ -24,7 +24,7 @@
 
 <p align="center">
 
-  <a aria-label="Join our chats" href="https://t.me/GlobalBotInc" target="_blank">
+  <a aria-label="Join our chats" href="https://t.me/lostboytech12" target="_blank">
     <img alt="telegram" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 
@@ -34,7 +34,7 @@
 # CLICK THE BUTTON TO FORK
 
 
-<a href="https://github.com/GlobalTechInfo/XeonBug-V8/fork"><img title="XeonBug-V8" src="https://img.shields.io/badge/FORK-XeonBug V8-h?color=blue&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/LOSTBOY246/BLOOD-CLAN-BUG-BOT.git/fork"><img title="BLOOD CLAN BUG BOT" src="https://img.shields.io/badge/FORK-XeonBug V8-h?color=blue&style=for-the-badge&logo=stackshare"></a>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -67,7 +67,7 @@ apt install -y webp git ffmpeg curl imagemagick
 apt -y remove nodejs
 curl -fsSl https://deb.nodesource.com/setup_lts.x | bash - && apt -y install nodejs
 git clone https://github.com/<your gitHub Username>/BLOOD CLAN BUG BOT
-cd XeonBug-V8
+cd BLOOD CLAN BUG BOT
 npm install
 npm start
 ```
@@ -82,7 +82,7 @@ npm start
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
 
-[![JOIN WHATSAPP CHANNEL](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png)](https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07)
+[![JOIN WHATSAPP CHANNEL](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png)](https://whatsapp.com/channel/0029ValF0TZEAKWNPknJ6I0I*_)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
